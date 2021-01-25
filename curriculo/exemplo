@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo codaí</title>
+</head>
+<body>
+    <div>
+        <h1>Andreía Pasqual</h1>
+        <h4>DEVELOP</h4>
+    </div>
+
+    <div>
+        <a href="#">Meus Projetos</a>
+    </div>
+
+    <section id="dados">
+        <div>
+            <img src="imagens/eu.jpg" alt="Minha foto" height="200">
+        </div>
+        <div>
+            <h1>Olá</h1>
+            <h4>Bem vindo ao meu cerrículo</h4>
+            <p> (Falar de voce, o que gosta) Brasileira, Solteira
+                 OBJETIVOS: Busco um estágio na área tecnológica para desenvolver e
+                 programar sempre me comprometendo com os objetivos da empresa. 
+                </p>
+            <p> (Qualconhecimento já tem)  Ciência da Computação - Universidade Cruzeiro do Sul em 
+                andamento no terceiro semestre. 
+                Ensino Superior - Administração de Empresas - Uniarp - Caçador/SC - dez/2018 
+                CURSOS/CONHECIMENTOS: Excel avançado, Java avançado, algoritmos, Android, Processamento de dados, MS DOS.
+                Python, HTML, CSS e Banco de Dados e inglês básico, javascript, react e react native.
+            </p>
+        </div>
+    </section>
+    <section id="contato">
+        <div>
+            <h4>Telefone</h4>
+            <p>(41) 99756 4989 whats</p>
+        </div>
+        <div>
+            <h4>E-mail</h4>
+            <p>pasqual1982.ap@gmail.com</p>
+         </div>
+         <div>
+            <h4>Github</h4>
+            <a href="#" target="_blank">https://github.com/andreia</a>
+         </div>
+    </section>
+    <footer>
+        <div>
+            <small>Andreia Pasqual 2021.</small>
+        </div>
+    </footer>
+</body>
+</html>
